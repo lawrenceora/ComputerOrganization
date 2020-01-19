@@ -1,4 +1,4 @@
-# ComputerOrganization
+# Computer Organization
 Low level hardware components simulated in Verilog.
 
 Includes: 
